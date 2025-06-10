@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&text=IOS%20Developer%20&height=300&fontSize=100&animation=fadeIn)
 
 
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/vladinios/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -14,16 +15,8 @@
 
 
 
-<p align="left"><br><br>📍 Location: Poland<br><br>🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladinios/)<br>📫 How to reach me: vladiosdeveloperjob@gmail.com</p>
+<p align="left">📍 Location: Poland<br>📫 How to reach me: vladiosdeveloperjob@gmail.com</p>
 
-###
-
-
-
-
-
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -53,7 +46,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_text=%F0%9F%91%80"  />
 </div>
 
