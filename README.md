@@ -1,9 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&text=IOS%20Developer%20&height=300&fontSize=100&animation=fadeIn)
 
 
-<p align="left">📍 Location: Poland <br><br>🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladinios/)<br>📫 How to reach me: vladiosdeveloperjob@gmail.com</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/vladinios/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="t.me/v_matygin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
 ###
+
+
+
+<p align="left"><br><br>📍 Location: Poland<br><br>🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladinios/)<br>📫 How to reach me: vladiosdeveloperjob@gmail.com</p>
+
+###
+
+
+
+
 
 
 <h3 align="left">🛠 Language and tools</h3>
