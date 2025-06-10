@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&text=IOS%20Developer%20&height=300&fontSize=100&animation=fadeIn)
 
-📍 Location: Poland 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladinios/)
-📫 How to reach me: vladiosdeveloperjob@gmail.com
+
+<p align="left">📍 Location: Poland <br><br>🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladinios/)<br>📫 How to reach me: vladiosdeveloperjob@gmail.com</p>
+
+###
 
 
 <h3 align="left">🛠 Language and tools</h3>
