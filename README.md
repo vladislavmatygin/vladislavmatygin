@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&text=%20IOS_Developer_%20&height=300&fontSize=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&text=IOS%20Developer%20&height=300&fontSize=100&animation=fadeIn)
 
 
 <!--
